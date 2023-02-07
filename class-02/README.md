@@ -1,5 +1,13 @@
 # Basics of HTML, CSS & JS
 
+## In class notes and takeaways!
+
+- [Lecture Notes](lecture-notes.md)
+- [IF ELSE REPLIT](https://replit.com/@arpatterson31/Class-201d97-IFELSE#index.js)
+- [IF ELSE Whiteboard](inclass-wb/if-else-logic-wb.png)
+- [Github and Git workflow Whiteboard](inclass-wb/git-vs-github.png)
+- [Inclass demo code - project set up](inclass-demo-project-setup/)
+
 ## Overview
 
 This class is focused on practice with JavaScript, an introduction to data types and  conditionals. We will also be learning about Git and Github at a much deeper level. Today's lab will require the creation of a new repo and using a very basic git workflow.
