@@ -85,7 +85,7 @@ What kind of content should be in the README?
 - Information on the license
 - Acknowledgements, etc.
 
-#### [README-template](README-template.md){:target="_blank"} -  The default 201 README template
+#### [README-template](https://codefellows.github.io/code-201-guide/curriculum/class-02/README-template.html){:target="_blank"} -  The default 201 README template
 
 Also take a look at the following suggested structures. Note the similarities and differences; there is no absolute right/wrong approach. Consider the information that would be helpful to users of your project, and then set one up that is appropriate to your project:
 
