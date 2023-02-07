@@ -2,7 +2,7 @@
 
 ## Overview
 
-This class is focused on practice with JavaScript, an introduction to data types, conditionals, and arrays. We will also be learning about Git and Github at a much deeper level. Today's lab will require the creation of a new repo and using a very basic git workflow.
+This class is focused on practice with JavaScript, an introduction to data types and  conditionals. We will also be learning about Git and Github at a much deeper level. Today's lab will require the creation of a new repo and using a very basic git workflow.
 
 ## Class Outline
 
