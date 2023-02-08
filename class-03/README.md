@@ -8,7 +8,7 @@ This class is a highly conceptual. We will be diving deeper into **control flow*
 
 - Code review of previous lab assignment
 - Code demo
-  - Array review
+  - Arrays
   - Loops (`for` and `while`)
   - CSS box model
 - Lab preview and prep
