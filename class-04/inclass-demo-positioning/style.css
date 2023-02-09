@@ -26,6 +26,7 @@ section {
   width: 80%;
   margin: 20px auto;
   height: 200vh;
+  position: relative;
 }
 
 #static {
@@ -35,16 +36,26 @@ section {
 
 #relative {
  background-color: lightpink;
+ position: relative;
+ /* left: 400px;
+ top: 500px; */
 
 }
 
 #absolute {
  background-color: lightcoral;
-
+ position: absolute;
+ left: 500px;
+ top: 10px;
 }
 
+#absolute:hover {
+  display:none;
+}
 
 #fixed {
  background-color: lightgoldenrodyellow;
-
+ position: fixed;
+ top: 0px;
+ right: 0px;
 }
