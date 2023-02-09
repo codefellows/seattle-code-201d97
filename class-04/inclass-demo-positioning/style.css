@@ -1,0 +1,50 @@
+body {
+  background-color: #b084eb;
+  font-family: Arial, Helvetica, sans-serif;
+  color: #444;
+}
+
+div {
+  height: 200px;
+  width: 200px;
+}
+
+header {
+  text-align: center;
+  padding: 50px;
+}
+
+h1 {
+  font-size: xx-large;
+  margin-bottom: 10px;
+}
+
+/* parent element */
+section {
+  background-color: #7dc1ff;
+  padding: 50px;
+  width: 80%;
+  margin: 20px auto;
+  height: 200vh;
+}
+
+#static {
+  background-color: lightgrey;
+  position: static;
+}
+
+#relative {
+ background-color: lightpink;
+
+}
+
+#absolute {
+ background-color: lightcoral;
+
+}
+
+
+#fixed {
+ background-color: lightgoldenrodyellow;
+
+}
