@@ -11,22 +11,22 @@
 
 let myNum = 25;
 
-// for(let i = 0; i < 4; i++){
-//   let questionSix = +prompt('Guess what number I am thinking of?');
+for(let i = 0; i < 4; i++){
+  let questionSix = +prompt('Guess what number I am thinking of?');
 
-//   if(questionSix > myNum){
-//     alert('Sorry too high! ');
-//   } else if(questionSix < myNum){
-//     alert('Sorry too low')
-//   } else if(questionSix === myNum){
-//     alert('Yay you are correct!');
-//     // i = 4;
-//     break;
-//   }
-//   if(i === 3){
-//     alert('Sorry you are out of attempts the answer was 25');
-//   }
-// }
+  if(questionSix > myNum){
+    alert('Sorry too high! ');
+  } else if(questionSix < myNum){
+    alert('Sorry too low')
+  } else if(questionSix === myNum){
+    alert('Yay you are correct!');
+    // i = 4;
+    break;
+  }
+  if(i === 3){
+    alert('Sorry you are out of attempts the answer was 25');
+  }
+}
 
 // DONE: It should give the user exactly four opportunities to get the correct answer (LOOP).
 // DONE: After all attempts have been exhausted, tell the user the correct answer.
