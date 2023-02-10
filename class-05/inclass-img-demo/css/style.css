@@ -1,0 +1,39 @@
+* {
+  background-color: darkgrey;
+}
+
+/* HEADER STYLING */
+h1 {
+ font-size: 32px;
+ border: 2px solid black;
+ width: max-content;
+ margin: auto;
+}
+
+
+/* IMAGE STYLING */
+
+figure {
+  width: 70%;
+  background-color: pink;
+  padding: 20px;
+  margin: auto;
+  margin-top: 20px;
+  /* font-size: 32px; */
+}
+
+img {
+  width: 100%;
+}
+
+figcaption {
+  background-color: inherit;
+  font-size: 2vw;
+}
+/* TEXT STYLING */
+p {
+  width: 70%;
+  margin: auto;
+  font-family: 'Roboto Mono', monospace;
+
+}
