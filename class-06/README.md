@@ -1,5 +1,11 @@
 # The DOM, Domain Modeling, and Introduction to Objects
 
+## In Class Takeaways!
+
+- [Lecture Notes](lecture-notes.md)
+- [In Class Demo](inclass-demo/)
+- [OBJECT REPLIT](https://replit.com/@arpatterson31/Class-201d97-OBJECTS#index.js)
+
 ## Class Outline
 
 - Code review of previous class lab assignment
