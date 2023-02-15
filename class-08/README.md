@@ -1,5 +1,11 @@
 # More Topics in CSS Layouts
 
+## In class notes and takeaways
+
+- [2D replit](https://replit.com/@arpatterson31/2D-ARRAY-Example#index.js)
+- [Lab 8b images](lab-b/image-assets/)
+- [Lab 8a HTML](lab-a/index.html)
+
 ## Overview
 
 In this class you will learn to layout a page using CSS and HTML with a given a wireframe. We will also be covering a more advanced CSS layout, Flexbox.
