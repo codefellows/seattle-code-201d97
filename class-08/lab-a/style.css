@@ -1,0 +1,28 @@
+/* main ul {
+  display: flex;
+  justify-content: space-between;
+} */
+
+
+/* Scrollable container */
+p {
+  height: 300px;
+  width: 300px;
+  overflow: auto;
+}
+
+
+/* Hover State with a transition */
+button {
+  transition: 350ms;
+}
+
+button:hover{
+  background-color: green;
+}
+
+
+footer {
+  background-color: #444;
+  height: 150px;
+}
