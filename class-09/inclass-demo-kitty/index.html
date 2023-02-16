@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <title>Adopt a Kitten</title>
+  <link rel="stylesheet" href="css/reset.css">
+  <link rel="stylesheet" href="css/style.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Poppins&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Archivo&display=swap" rel="stylesheet">
+</head>
+
+<body>
+  <header>
+    <h1>Adopt a Kitten</h1>
+    <!-- LINK SALES AND INDEX -->
+    <h2><a href="sales.html">Sales</a></h2>
+  </header>
+
+  <main>
+    <h2>Kittens Available for Adoption</h2>
+    <section id="kitten-profiles"></section>
+
+    <form id="kitty-form">
+      <fieldset>
+        <legend>Basic Information</legend>
+
+        <label for="kittyName">Name: </label>
+        <input type="text" id="kittyName" name="kittyName">
+
+        <label for="interests">Interest: (please separate using a comma)</label>
+        <input type="text" name="interests" id="interests">
+
+        <label for="photo">Photo: </label>
+        <input type="text" id="photo" name="photo">
+      </fieldset>
+
+      <fieldset>
+        <legend>Placement Information</legend>
+        <label for="isGoodWithCats">Good with Cats?</label>
+        <input type="checkbox" id="isGoodWithCats" name="isGoodWithCats">
+
+        <label for="isGoodWithDogs">Good with Dogs?</label>
+        <input type="checkbox" id="isGoodWithDogs" name="isGoodWithDogs">
+
+        <label for="isGoodWithKids">Good with Kids?</label>
+        <input type="checkbox" id="isGoodWithKids" name="isGoodWithKids">
+      </fieldset>
+      <button type="submit">Submit
+
+      </button>
+    </form>
+
+
+
+    <!-- ! generate this from js: -->
+    <!--
+        <article>
+           <h2></h2>
+           <p></p>
+           <ul>
+             <li></li>
+           </ul>
+           <img>
+           <table>
+        </article>
+        -->
+
+    <!-- <article>
+          <h2></h2>
+          <p></p>
+          <ul>
+            <li></li>
+          </ul>
+          <img>
+       </article>
+       -->
+
+  </main>
+  <footer>&copy; Code Fellows</footer>
+  <script src="js/app.js"></script>
+</body>
+
+</html>
