@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Forms and Events</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <header>
+    <h1>Events: boxes and forms</h1>
+  </header>
+  <main>
+
+    <form id="my-form">
+      <fieldset>
+        <legend>Fieldset Header</legend>
+        <!-- INPUTS AND LABELS 2 options -->
+
+        <!-- OPTION 1: INPUT AND LABELS ARE SIBLINGS -->
+        <!-- IMPORTANT LABEL MUST HAVE A FOR ATTRIBUTE AND THE INPUT WILL HAVE A MATCHING ID ATTRIBUTE -->
+        <label for="username">Name: </label>
+        <input id="username" type="text" placeholder="ex. John Smith" name="username" required>
+
+        <!-- OPTION 2: IS TO NEST THE INPUT INSIDE OF YOUR LABEL -->
+        <label>Age:
+          <input type="number" name="age">
+        </label>
+
+        <label for="password">Password: </label>
+        <input id="password" name="password" type="password">
+
+        <label for="housewives">Fav Housewives</label>
+        <select name="housewives" id="housewives">
+          <option value="">*****</option>
+          <option value="beverlyhills">Beverly Hills</option>
+          <option value="slc">Salt Lake City</option>
+          <option value="atlanta">Atlanta</option>
+        </select>
+      </fieldset>
+      <button type="submit">Submit</button>
+    </form>
+
+  </main>
+  <script src="js/app.js"></script>
+</body>
+</html>
