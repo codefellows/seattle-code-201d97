@@ -28,18 +28,34 @@ As a result of completing Lecture 15 of Code 201, students will:
 - Code 301 Preview
 - Final Project Overview
 
-## Notes
-
-### 301 Preview
+## 301 Preview
 
 Lots of good stuff coming up in Code 301! You'll learn to build MERN apps and deeper exploration of how the web works.
 
-#### Structure of 301
+### Structure of 301
 
 - Pair programming
 - Daily code challenges
 - 3 modules of app building
 - A final project, deployed to the cloud!
+
+### Concepts in 301
+
+- React
+- Servers and API's
+- Persistence with MongoDB
+- CSS Libraries
+- Algorithms
+- Functional Programming
+- A delicious alphabet soup of: HTTP, WRRC, CRUD, REST
+- Authentication
+
+### Languages in 301
+
+- HTML with Templating
+- Modularized CSS
+- Intermediate JavaScript including Functional Programming
+- React library
 
 ## Final Project Overview
 
