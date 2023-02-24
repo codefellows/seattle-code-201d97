@@ -25,8 +25,6 @@ As a result of completing Lecture 15 of Code 201, students will:
 - Announcements
   - Reminder: weekly surveys will go out today
 - Discuss upcoming Career Coaching assignments
-- Code Review
-- Review Exam
 - Code 301 Preview
 - Final Project Overview
 
